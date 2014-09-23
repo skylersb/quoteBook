@@ -1,0 +1,65 @@
+html {
+	background: url("http://4.bp.blogspot.com/-5pEFC-EaVTI/UA8qpVh2TlI/AAAAAAAAAAg/DlbYIEQb3dU/s1600/cross_roads_hd_widescreen_wallpapers_1920x1200.jpg") no-repeat center center fixed;
+	-website-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body {
+	background: transparent;
+}
+
+.buttons {
+	padding-top: 10px;
+	margin-left: 37%
+}
+
+.quoteContainer {
+	margin-top: -120px;
+	background-color: rgba(255, 255, 255, 0.6);
+	padding: 40px 10px 10px 10px;
+	border-radius: 10px;
+
+}
+
+ul {
+	margin-top: 100px;
+	
+}
+
+li {
+list-style: none;
+padding: 5px;
+font-family: 'PT Serif', serif;
+font-size: 1.5em;
+text-align: center;
+
+
+}
+
+.fa {
+	color: rgba(255, 0, 0, 0.5);
+	position: inline-block;
+	float: right;
+	padding-bottom: 30px;
+	margin-top: -20px
+	
+	
+}
+
+header {
+	height: 65px;
+	width: 100%;
+	
+	display: inline-block;
+	text-align: center;
+	font-size: 2.5em;
+	font-family: 'PT Serif', serif;
+	
+
+}
+
+/*main {
+	margin: 20px 50px 50px 50px;
+}*/
